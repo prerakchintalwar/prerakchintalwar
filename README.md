@@ -7,7 +7,7 @@ Data Scientist | Data Analyst | Machine Learning
 Self-directed and driven technology professional with comprehensive accomplishments applying statistical modeling, machine learning and data analytics to ensure success and achieve goals. Strong health care, finance, marketing, supply-chain and consulting industry acumen. Demonstrated success developing and seamlessly executing plans in complex organizational structures. Recognized for maximizing performance by implementing appropriate project management through analysis of details to ensure quality control, legacy system transformation and an understanding of emerging technology.
 
 * 🌍  I'm based in Toronto, ON, Canada
-* ✉️  You can contact me at [chintalwarprerak@gmail.com](mailto:chintalwarprerak@gmail.com)
+* ✉️  You can contact me at [prerakchintalwar1@gmail.com](mailto:chintalwarprerak@gmail.com)
 * 🧠  I'm learning the latest technological advances in the field of Machine Learning and Deep Learning. My proficiencies are not only in Supervised and Unsupervised learning algos but also in CNN's, RNN's, Transfer Learning, Reinforcement Learning, NLP, NER models etc. Apart from that, I am also a huge enthusiast in developing Large Scale ML systems using NLP, also love to create interactive dashboards in Power BI and Tableau.
 * 🤝  I'm open to collaborating on any Data Science or Dashboard development projects.
 * ⚡  I'm secretly in love with learning new things and continuously improving myself using self-developed innovation techniques in my existing domains.
